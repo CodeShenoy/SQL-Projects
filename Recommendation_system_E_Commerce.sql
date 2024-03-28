@@ -2,7 +2,7 @@
 CREATE DATABASE ECommerce;
 
 use ECommerce;
-
+ 
 -- Create the Products table
 CREATE TABLE Products (
     product_id VARCHAR(20),
